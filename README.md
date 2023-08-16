@@ -32,5 +32,4 @@ During the process of understanding, I've seen severals issues and typo error.
 ![OR Gate](https://github.com/Neo-Geo-Hardwares/Schematics-MV1F/blob/main/img/logic_gates_OR.jpg)
 ![2-Inverted Input NAND Gate](https://github.com/Neo-Geo-Hardwares/Schematics-MV1F/blob/main/img/logic_gates_Inverted_NAND.jpg)
 
- * 
  * On Page 3, the pinout of the JAMMA's Blue (**B**) pin is correctly identified (**12**) and mislabelled as **GREEN**, the JAMMA's Green (**G**) pin is also correclty referenced (**N**) and mislabeled as **BLUE**
