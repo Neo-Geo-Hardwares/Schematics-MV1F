@@ -4415,7 +4415,7 @@
           (reference "6M") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
-          (reference "8H") (unit 1)
+          (reference "8H1") (unit 1)
         )
       )
     )
@@ -4470,7 +4470,7 @@
           (reference "7M") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
-          (reference "7H") (unit 1)
+          (reference "7H1") (unit 1)
         )
       )
     )
@@ -4540,7 +4540,7 @@
           (reference "SP1") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
-          (reference "6F") (unit 1)
+          (reference "6F1") (unit 1)
         )
       )
     )
@@ -4711,7 +4711,7 @@
           (reference "1M") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
-          (reference "4H") (unit 1)
+          (reference "4H1") (unit 1)
         )
       )
     )
@@ -4802,7 +4802,7 @@
           (reference "U1") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
-          (reference "3G") (unit 1)
+          (reference "3G1") (unit 1)
         )
       )
     )
@@ -4886,7 +4886,7 @@
           (reference "2M") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
-          (reference "5H") (unit 1)
+          (reference "5H1") (unit 1)
         )
       )
     )

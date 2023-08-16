@@ -4051,7 +4051,7 @@
   (symbol (lib_id "74xx:74LS273") (at 147.32 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 127702bb-2392-4ac1-947b-bbf1f778913b)
-    (property "Reference" "9H" (at 139.7 105.41 0)
+    (property "Reference" "9H2" (at 139.7 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS273" (at 148.59 138.43 0)
@@ -4086,7 +4086,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/02d08188-cb7b-4e58-b274-9af0bca56e9a"
-          (reference "9H") (unit 1)
+          (reference "9H2") (unit 1)
         )
       )
     )
@@ -4275,7 +4275,7 @@
   (symbol (lib_id "74xx:74LS05") (at 203.2 149.86 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2c556c5b-84c8-4bef-9380-4915d856700e)
-    (property "Reference" "9K" (at 200.66 144.78 0)
+    (property "Reference" "9K1" (at 200.66 144.78 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS05" (at 203.2 154.94 0)
@@ -4304,7 +4304,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/02d08188-cb7b-4e58-b274-9af0bca56e9a"
-          (reference "9K") (unit 2)
+          (reference "9K1") (unit 2)
         )
       )
     )
@@ -4415,7 +4415,7 @@
   (symbol (lib_id "74xx:74LS05") (at 203.2 205.74 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5d2db766-df84-46a6-9532-d090ad5462a4)
-    (property "Reference" "9K" (at 200.66 200.66 0)
+    (property "Reference" "9K1" (at 200.66 200.66 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS05" (at 203.2 210.82 0)
@@ -4444,7 +4444,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/02d08188-cb7b-4e58-b274-9af0bca56e9a"
-          (reference "9K") (unit 3)
+          (reference "9K1") (unit 3)
         )
       )
     )
@@ -4530,7 +4530,7 @@
   (symbol (lib_id "74xx:74LS05") (at 203.2 137.16 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 704545a4-48a8-4044-85f7-30aade24ebd2)
-    (property "Reference" "9K" (at 200.66 132.08 0)
+    (property "Reference" "9K1" (at 200.66 132.08 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS05" (at 203.2 142.24 0)
@@ -4559,7 +4559,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/02d08188-cb7b-4e58-b274-9af0bca56e9a"
-          (reference "9K") (unit 5)
+          (reference "9K1") (unit 5)
         )
       )
     )
@@ -4612,7 +4612,7 @@
   (symbol (lib_id "74xx:74LS05") (at 203.2 100.33 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 738e962d-17d6-4a8e-8427-cc040c241e26)
-    (property "Reference" "9K" (at 200.66 95.25 0)
+    (property "Reference" "9K1" (at 200.66 95.25 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS05" (at 203.2 105.41 0)
@@ -4641,7 +4641,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/02d08188-cb7b-4e58-b274-9af0bca56e9a"
-          (reference "9K") (unit 1)
+          (reference "9K1") (unit 1)
         )
       )
     )
@@ -4676,7 +4676,7 @@
   (symbol (lib_id "Memory_RAM:KM62256CLP") (at 74.93 157.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7dd365df-5058-43ee-bcd1-5da5d2afe811)
-    (property "Reference" "6J" (at 64.77 135.89 0)
+    (property "Reference" "6J1" (at 64.77 135.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "43256" (at 78.74 179.07 0)
@@ -4719,7 +4719,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/02d08188-cb7b-4e58-b274-9af0bca56e9a"
-          (reference "6J") (unit 1)
+          (reference "6J1") (unit 1)
         )
       )
     )
@@ -4728,7 +4728,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Pin") (at 228.6 59.69 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7e2e5e40-946b-45b7-ad29-df3b80600008)
-    (property "Reference" "JAMMA" (at 227.965 55.4695 0)
+    (property "Reference" "JAMMA5" (at 227.965 55.4695 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "RED" (at 229.87 59.69 0)
@@ -4744,7 +4744,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/02d08188-cb7b-4e58-b274-9af0bca56e9a"
-          (reference "JAMMA") (unit 1)
+          (reference "JAMMA5") (unit 1)
         )
       )
     )
@@ -4805,7 +4805,7 @@
   (symbol (lib_id "74xx:74LS05") (at 203.2 193.04 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 95a92a8b-88cd-4fae-a2fd-5f4f6ecd674b)
-    (property "Reference" "9K" (at 200.66 187.96 0)
+    (property "Reference" "9K1" (at 200.66 187.96 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS05" (at 203.2 198.12 0)
@@ -4834,7 +4834,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/02d08188-cb7b-4e58-b274-9af0bca56e9a"
-          (reference "9K") (unit 4)
+          (reference "9K1") (unit 4)
         )
       )
     )
@@ -4894,7 +4894,7 @@
   (symbol (lib_id "74xx:74LS05") (at 203.2 87.63 0) (unit 6)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9c3f81ee-fc3e-4a21-9b89-af27e1917d36)
-    (property "Reference" "9K" (at 200.66 82.55 0)
+    (property "Reference" "9K1" (at 200.66 82.55 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS05" (at 203.2 92.71 0)
@@ -4923,7 +4923,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/02d08188-cb7b-4e58-b274-9af0bca56e9a"
-          (reference "9K") (unit 6)
+          (reference "9K1") (unit 6)
         )
       )
     )
@@ -5100,7 +5100,7 @@
   (symbol (lib_id "Memory_RAM:KM62256CLP") (at 74.93 205.74 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e8ed91c6-dd30-4362-bd6d-693b35b2c183)
-    (property "Reference" "7J" (at 64.77 184.15 0)
+    (property "Reference" "7J1" (at 64.77 184.15 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "43256" (at 78.74 227.33 0)
@@ -5143,7 +5143,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/02d08188-cb7b-4e58-b274-9af0bca56e9a"
-          (reference "7J") (unit 1)
+          (reference "7J1") (unit 1)
         )
       )
     )
