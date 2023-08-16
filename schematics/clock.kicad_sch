@@ -546,7 +546,7 @@
       (effects (font (size 1.27 1.27)) (justify right))
     )
   )
-  (global_label "BATYCC" (shape input) (at 41.91 39.37 180) (fields_autoplaced)
+  (global_label "BAT_VCC" (shape input) (at 41.91 39.37 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 4d9cba00-802c-40db-9986-a17449083b6d)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 31.97 39.37 0)

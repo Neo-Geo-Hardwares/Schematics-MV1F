@@ -2,7 +2,7 @@
 
   (uuid 716c0718-858e-4c10-9d3b-3a85f5e2ec5a)
 
-  (paper "User" 431.8 479.4)
+  (paper "User" 255.803 259.41)
 
   (title_block
     (title "RGB - Palette Converter")
@@ -3458,7 +3458,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 0b25d2ba-3a91-4c84-8eb2-73b22a330a52)
   )
-  (label "PC0" (at 87.63 139.7 0)
+  (label "PC0" (at 87.63 139.7 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0e881d93-3e89-4a83-a340-088aa065ae2f)
   )
@@ -3522,7 +3522,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 25d09d25-a91b-478d-9d8d-635538f1bc08)
   )
-  (label "B0" (at 160.02 109.22 0)
+  (label "B0" (at 160.02 109.22 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 26b88126-e523-4419-bbcd-09612ab999f6)
   )
@@ -3562,7 +3562,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 396c99cc-fd53-41f4-85e3-4a0cecacb42d)
   )
-  (label "PC12" (at 134.62 109.22 180)
+  (label "PC12" (at 134.62 109.22 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 39b0aae6-d7e5-4768-8ef0-cad90dc20cfe)
   )
@@ -3886,7 +3886,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d8baedca-4dd6-4451-8004-2f5911f6ee2e)
   )
-  (label "PA0" (at 62.23 139.7 180)
+  (label "PA0" (at 62.23 139.7 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid da59789c-95c1-416d-a8a1-310d6e4f4943)
   )
