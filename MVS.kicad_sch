@@ -1,0 +1,110 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2)
+
+  (paper "A4")
+
+  (title_block
+    (date "2023-08-15")
+    (rev "1.0")
+    (company "SNK")
+    (comment 3 "Converted by Frater ")
+    (comment 4 "NEO-GEO MVS MV1F")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 24.13 101.6) (size 39.37 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 02d08188-cb7b-4e58-b274-9af0bca56e9a)
+    (property "Sheetname" "RGB DAC " (at 24.13 100.8884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "RGBDAC.kicad_sch" (at 24.13 114.8846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "MVS"
+        (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 25.4 25.4) (size 38.1 12.7)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 0b42d888-4b79-4625-b2d5-9f4b583469ed)
+    (property "Sheetname" "68K BIOS - Working & Backup RAM" (at 25.4 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "68KWBRAM.kicad_sch" (at 25.4 38.6846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (property "WIP" "DONE" (at 44.45 31.75 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (instances
+      (project "MVS"
+        (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 25.4 76.2) (size 38.1 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 225eaee9-8f74-4a38-a94f-717f461ecd54)
+    (property "Sheetname" "Clock" (at 25.4 75.4884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "clock.kicad_sch" (at 25.4 89.4846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "MVS"
+        (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 25.4 50.8) (size 38.1 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 27681089-1070-4f1d-abd3-d755d3af1e2e)
+    (property "Sheetname" "Players Input " (at 25.4 50.0884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "PlayersInput.kicad_sch" (at 25.4 64.0846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "MVS"
+        (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 76.2 76.2) (size 39.37 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7f24c728-fee0-48c8-a0fa-f73689e9a4e3)
+    (property "Sheetname" "Battery & Saved Memory" (at 76.2 75.4884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "BatterySaved.kicad_sch" (at 76.2 89.4846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "MVS"
+        (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2" (page "5"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
