@@ -12,8 +12,8 @@ According to serverals sources, this is the 8th revision of this board.
 
 ## Documents and notes
 
-You can find the (how-to-read-scanned)[docs/schematics-reading.md] documentations.
+You can find the [how-to-read-scanned](docs/schematics-reading.md) documentations.
 
-During my work, I've found some funny stuffs or errors, I've compiled them on (this)[docs/schematics-errors.md] document.
+During my work, I've found some funny stuffs or errors, I've compiled them on [this](docs/schematics-errors.md) document.
 
 
