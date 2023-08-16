@@ -2202,10 +2202,6 @@
     (stroke (width 0) (type default))
     (uuid 31d9f30a-2641-4cf1-8c2e-f550d5668226)
   )
-  (bus (pts (xy 45.72 213.36) (xy 45.72 222.25))
-    (stroke (width 0) (type default))
-    (uuid 31e86804-5147-484e-82df-2055d5d9e041)
-  )
 
   (wire (pts (xy 160.02 163.83) (xy 175.26 163.83))
     (stroke (width 0) (type default))

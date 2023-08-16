@@ -87,6 +87,23 @@
     )
   )
 
+  (sheet (at 68.58 17.78) (size 38.1 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 5f943e9e-0280-4d4f-b6a1-cb23eca420c0)
+    (property "Sheetname" "LSPC2-A2 & VRAM" (at 68.58 17.0684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "lspc2-Vram.kicad_sch" (at 68.58 31.0646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "MVS"
+        (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2" (page "8"))
+      )
+    )
+  )
+
   (sheet (at 68.58 55.88) (size 38.1 12.7) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
