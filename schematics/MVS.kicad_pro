@@ -474,31 +474,31 @@
     ],
     [
       "0b42d888-4b79-4625-b2d5-9f4b583469ed",
-      "68K BIOS - Working & Backup RAM"
+      "68K-SP ROM-Work & Back RAM [1]"
     ],
     [
       "27681089-1070-4f1d-abd3-d755d3af1e2e",
-      "Players Input "
+      "NEO-C1 Players Input [1]"
     ],
     [
       "225eaee9-8f74-4a38-a94f-717f461ecd54",
-      "Clock"
+      "UPD4990 Clock [1]"
     ],
     [
       "7f24c728-fee0-48c8-a0fa-f73689e9a4e3",
-      "Battery & Saved Memory"
+      "Battery Circuit [1]"
     ],
     [
       "02d08188-cb7b-4e58-b274-9af0bca56e9a",
-      "RGB DAC "
+      "Video DAC [3]"
     ],
     [
       "a36cda8b-8f55-42e5-b1dc-011a6eeffdb5",
-      "NEO-E0 "
+      "NEO-E0 [3]"
     ],
     [
       "5f943e9e-0280-4d4f-b6a1-cb23eca420c0",
-      "LSPC2-A2 & VRAM"
+      "LSPC2-A2 & VRAM [3]"
     ]
   ],
   "text_variables": {}

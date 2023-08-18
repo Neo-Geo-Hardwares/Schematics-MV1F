@@ -16,15 +16,21 @@
   )
 
 
+  (text "LSPC2-A2 VRAM \nNEO-I0 NEO-B1 NEO-ZMC2 \n\nSFix ROM & L0 ROM"
+    (at 69.85 26.67 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid f9b23332-55b9-4f38-ab64-7176675819c3)
+  )
+
   (sheet (at 25.4 74.93) (size 38.1 12.7) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 02d08188-cb7b-4e58-b274-9af0bca56e9a)
-    (property "Sheetname" "RGB DAC " (at 25.4 74.2184 0)
+    (property "Sheetname" "Video DAC [3]" (at 25.4 74.2184 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheetfile" "RGBDAC.kicad_sch" (at 25.4 88.2146 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (instances
       (project "MVS"
@@ -37,14 +43,11 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 0b42d888-4b79-4625-b2d5-9f4b583469ed)
-    (property "Sheetname" "68K BIOS - Working & Backup RAM" (at 25.4 17.0684 0)
+    (property "Sheetname" "68K-SP ROM-Work & Back RAM [1]" (at 25.4 17.0684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheetfile" "68KWBRAM.kicad_sch" (at 25.4 31.0646 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (property "WIP" "DONE" (at 44.45 24.13 0)
-      (effects (font (size 1.27 1.27)))
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (instances
       (project "MVS"
@@ -57,11 +60,11 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 225eaee9-8f74-4a38-a94f-717f461ecd54)
-    (property "Sheetname" "Clock" (at 25.4 55.1684 0)
+    (property "Sheetname" "UPD4990 Clock [1]" (at 25.4 55.1684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheetfile" "clock.kicad_sch" (at 25.4 69.1646 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (instances
       (project "MVS"
@@ -74,11 +77,11 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 27681089-1070-4f1d-abd3-d755d3af1e2e)
-    (property "Sheetname" "Players Input " (at 25.4 36.1184 0)
+    (property "Sheetname" "NEO-C1 Players Input [1]" (at 25.4 36.1184 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheetfile" "PlayersInput.kicad_sch" (at 25.4 50.1146 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (instances
       (project "MVS"
@@ -87,15 +90,15 @@
     )
   )
 
-  (sheet (at 68.58 17.78) (size 38.1 12.7) (fields_autoplaced)
+  (sheet (at 68.58 17.78) (size 38.1 12.7)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 5f943e9e-0280-4d4f-b6a1-cb23eca420c0)
-    (property "Sheetname" "LSPC2-A2 & VRAM" (at 68.58 17.0684 0)
+    (property "Sheetname" "LSPC2-A2 & VRAM [3]" (at 68.58 17.0684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheetfile" "lspc2-Vram.kicad_sch" (at 68.58 31.0646 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (instances
       (project "MVS"
@@ -108,11 +111,11 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 7f24c728-fee0-48c8-a0fa-f73689e9a4e3)
-    (property "Sheetname" "Battery & Saved Memory" (at 68.58 55.1684 0)
+    (property "Sheetname" "Battery Circuit [1]" (at 68.58 55.1684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheetfile" "BatterySaved.kicad_sch" (at 68.58 69.1646 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (instances
       (project "MVS"
@@ -125,11 +128,11 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid a36cda8b-8f55-42e5-b1dc-011a6eeffdb5)
-    (property "Sheetname" "NEO-E0 " (at 68.58 74.2184 0)
+    (property "Sheetname" "NEO-E0 [3]" (at 68.58 74.2184 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheetfile" "neo-e0-stuff.kicad_sch" (at 68.58 88.2146 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (instances
       (project "MVS"
