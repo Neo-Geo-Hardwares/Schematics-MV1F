@@ -16,4 +16,6 @@ You can find the [how-to-read-scanned](docs/schematics-reading.md) documentation
 
 During my work, I've found some funny stuffs or errors, I've compiled them on [this](docs/schematics-errors.md) document.
 
+## Project progress overview
 
+![Project progress Overview](/img/project-progress.png)
