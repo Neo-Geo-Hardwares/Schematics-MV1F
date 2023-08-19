@@ -10,6 +10,11 @@ The Neo Geo was marketed as the first 24-bit system; its CPU is actually a 16/32
 
 According to serverals sources, this is the 8th revision of this board.
 
+This work is mainly based on Thoses resources :
+
+- [neogeo-dev](https://wiki.neogeodev.org/index.php)
+- [scanned Neo-Geo](https://www.mvs-scans.com/index.php/Main_Page)
+
 ## Documents and notes
 
 You can find the [how-to-read-scanned](docs/schematics-reading.md) documentations.

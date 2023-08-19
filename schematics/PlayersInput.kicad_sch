@@ -5022,7 +5022,7 @@
       (effects (font (size 1.27 1.27)) (justify right))
     )
   )
-  (global_label "PORTADRX" (shape input) (at 118.11 85.09 0) (fields_autoplaced)
+  (global_label "PORTADRS" (shape input) (at 118.11 85.09 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 9c37744e-6443-4ef5-9440-639feb98b594)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 130.7714 85.09 0)
