@@ -499,6 +499,10 @@
     [
       "5f943e9e-0280-4d4f-b6a1-cb23eca420c0",
       "LSPC2-A2 & VRAM [3]"
+    ],
+    [
+      "7e8bc893-bc3c-455d-a808-2e7efaafdbaf",
+      "Audio [4]"
     ]
   ],
   "text_variables": {}

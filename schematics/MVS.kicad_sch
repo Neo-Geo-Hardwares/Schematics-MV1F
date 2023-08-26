@@ -16,6 +16,10 @@
   )
 
 
+  (text "Z80, SM1\nNEO-D0, YM2610 - YM3016D" (at 114.3 22.86 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5367c1de-1f28-4944-a92f-1b2f1b99a47a)
+  )
   (text "LSPC2-A2 VRAM \nNEO-I0 NEO-B1 NEO-ZMC2 \n\nSFix ROM & L0 ROM"
     (at 69.85 26.67 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -103,6 +107,23 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2" (page "8"))
+      )
+    )
+  )
+
+  (sheet (at 113.03 17.78) (size 38.1 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7e8bc893-bc3c-455d-a808-2e7efaafdbaf)
+    (property "Sheetname" "Audio [4]" (at 113.03 17.0684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Audio.kicad_sch" (at 113.03 31.0646 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (instances
+      (project "MVS"
+        (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2" (page "9"))
       )
     )
   )
