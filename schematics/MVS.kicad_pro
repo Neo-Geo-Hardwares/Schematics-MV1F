@@ -457,8 +457,8 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
-    "plot_directory": "",
+    "page_layout_descr_file": "E:\\Users\\Frater\\Documents\\KiCad\\7.0\\template\\00-Custom.kicad_wks",
+    "plot_directory": "../pdf/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,

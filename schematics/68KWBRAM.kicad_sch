@@ -10,6 +10,7 @@
     (company "SNK")
     (comment 3 "Converted by Frater ")
     (comment 4 "NEO-GEO MVS MV1F")
+    (comment 9 "https://github.com/Neo-Geo-Hardwares/Schematics-MV1F")
   )
 
   (lib_symbols

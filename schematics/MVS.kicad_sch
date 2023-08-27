@@ -5,11 +5,13 @@
   (paper "A4")
 
   (title_block
+    (title "MVS MV1F")
     (date "2023-08-15")
     (rev "1.0")
     (company "SNK")
     (comment 3 "Converted by Frater ")
     (comment 4 "NEO-GEO MVS MV1F")
+    (comment 9 "https://github.com/Neo-Geo-Hardwares/Schematics-MV1F")
   )
 
   (lib_symbols
