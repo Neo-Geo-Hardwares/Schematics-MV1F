@@ -60,6 +60,23 @@
     )
   )
 
+  (sheet (at 158.75 17.78) (size 38.1 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 1deecced-da84-439f-9f01-b3c6623ba555)
+    (property "Sheetname" "Power Amp - NEO-FO - Dip Switch" (at 158.75 17.0684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "PowerAmp-Neo-FO-Dip.kicad_sch" (at 158.75 31.0646 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (instances
+      (project "MVS"
+        (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2" (page "10"))
+      )
+    )
+  )
+
   (sheet (at 25.4 55.88) (size 38.1 12.7) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -158,6 +175,23 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2" (page "7"))
+      )
+    )
+  )
+
+  (sheet (at 25.4 93.98) (size 38.1 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid e28c950c-3e09-446b-a960-d4d282228928)
+    (property "Sheetname" "DautherBoard Connection" (at 25.4 93.2684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "DaughterBoard.kicad_sch" (at 25.4 107.2646 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (instances
+      (project "MVS"
+        (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2" (page "11"))
       )
     )
   )

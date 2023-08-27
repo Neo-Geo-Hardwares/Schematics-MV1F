@@ -503,6 +503,14 @@
     [
       "7e8bc893-bc3c-455d-a808-2e7efaafdbaf",
       "Audio [4]"
+    ],
+    [
+      "1deecced-da84-439f-9f01-b3c6623ba555",
+      "Power Amp - NEO-FO - Dip Switch"
+    ],
+    [
+      "e28c950c-3e09-446b-a960-d4d282228928",
+      "DautherBoard Connection"
     ]
   ],
   "text_variables": {}
