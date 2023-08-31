@@ -35,7 +35,7 @@
     (property "Sheetname" "Video DAC [3]" (at 25.4 74.2184 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "RGBDAC.kicad_sch" (at 25.4 88.2146 0)
+    (property "Sheetfile" "MV1F-MB-RGBDAC.kicad_sch" (at 25.4 88.2146 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (instances
@@ -52,7 +52,7 @@
     (property "Sheetname" "68K-SP ROM-Work & Back RAM [1]" (at 25.4 17.0684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "68KWBRAM.kicad_sch" (at 25.4 31.0646 0)
+    (property "Sheetfile" "MV1F-MB-68KWBRAM.kicad_sch" (at 25.4 31.0646 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (instances
@@ -86,7 +86,7 @@
     (property "Sheetname" "UPD4990 Clock [1]" (at 25.4 55.1684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "clock.kicad_sch" (at 25.4 69.1646 0)
+    (property "Sheetfile" "MV1F-MB-clock.kicad_sch" (at 25.4 69.1646 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (instances
@@ -103,12 +103,29 @@
     (property "Sheetname" "NEO-C1 Players Input [1]" (at 25.4 36.1184 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "PlayersInput.kicad_sch" (at 25.4 50.1146 0)
+    (property "Sheetfile" "MV1F-MB-PlayersInput.kicad_sch" (at 25.4 50.1146 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 25.4 114.3) (size 38.1 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 371d6ea0-958c-4f25-bac5-c1423bc246f7)
+    (property "Sheetname" "Daughter Board : connectors to MB" (at 25.4 113.5884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "daughterboard-MB-Connectors.kicad_sch" (at 25.4 127.5846 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (instances
+      (project "MVS"
+        (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2" (page "12"))
       )
     )
   )
@@ -120,12 +137,29 @@
     (property "Sheetname" "LSPC2-A2 & VRAM [3]" (at 68.58 17.0684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "lspc2-Vram.kicad_sch" (at 68.58 31.0646 0)
+    (property "Sheetfile" "MV1F-MB-lspc2-Vram.kicad_sch" (at 68.58 31.0646 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2" (page "8"))
+      )
+    )
+  )
+
+  (sheet (at 69.85 114.3) (size 38.1 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 623c3d18-cde8-49e5-81ab-2a3ae8a81839)
+    (property "Sheetname" "Daughter Board - Cardridge connectors" (at 69.85 113.5884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "DB-Cardridge_Connectors.kicad_sch" (at 69.85 127.5846 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (instances
+      (project "MVS"
+        (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2" (page "13"))
       )
     )
   )
@@ -137,7 +171,7 @@
     (property "Sheetname" "Audio [4]" (at 113.03 17.0684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "Audio.kicad_sch" (at 113.03 31.0646 0)
+    (property "Sheetfile" "MV1F-MB-Audio.kicad_sch" (at 113.03 31.0646 0) (show_name)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (instances
@@ -154,7 +188,7 @@
     (property "Sheetname" "Battery Circuit [1]" (at 68.58 55.1684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "BatterySaved.kicad_sch" (at 68.58 69.1646 0)
+    (property "Sheetfile" "MV1F-MB-BatterySaved.kicad_sch" (at 68.58 69.1646 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (instances
@@ -171,7 +205,7 @@
     (property "Sheetname" "NEO-E0 [3]" (at 68.58 74.2184 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "neo-e0-stuff.kicad_sch" (at 68.58 88.2146 0)
+    (property "Sheetfile" "MV1F-MB-neo-e0-stuff.kicad_sch" (at 68.58 88.2146 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (instances
@@ -185,10 +219,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid e28c950c-3e09-446b-a960-d4d282228928)
-    (property "Sheetname" "DautherBoard Connection" (at 25.4 93.2684 0)
+    (property "Sheetname" "MB - Daughter's Board Connectors" (at 25.4 93.2684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "DaughterBoard.kicad_sch" (at 25.4 107.2646 0)
+    (property "Sheetfile" "MV1F-MB-DB-Connectors.kicad_sch" (at 25.4 107.2646 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (instances

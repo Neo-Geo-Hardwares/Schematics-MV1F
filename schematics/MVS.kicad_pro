@@ -510,7 +510,15 @@
     ],
     [
       "e28c950c-3e09-446b-a960-d4d282228928",
-      "DautherBoard Connection"
+      "MB - Daughter's Board Connectors"
+    ],
+    [
+      "371d6ea0-958c-4f25-bac5-c1423bc246f7",
+      "Daughter Board : connectors to MB"
+    ],
+    [
+      "623c3d18-cde8-49e5-81ab-2a3ae8a81839",
+      "Daughter Board - Cardridge connectors"
     ]
   ],
   "text_variables": {}

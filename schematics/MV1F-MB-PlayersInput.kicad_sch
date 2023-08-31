@@ -4871,7 +4871,7 @@
   (symbol (lib_id "0-Custom-Frater_Library:IBF2530") (at 266.7 163.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 069aa3af-4a96-4b4f-846c-07ca90aca176)
-    (property "Reference" "IBF2530" (at 266.7 160.8399 0)
+    (property "Reference" "IBF?" (at 266.7 160.8399 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "IBF2530" (at 266.7 166.624 0)
@@ -4888,7 +4888,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "IBF2530") (unit 1)
+          (reference "IBF?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "IBF4") (unit 1)
@@ -4900,7 +4900,7 @@
   (symbol (lib_id "power:GND") (at 172.72 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 08525857-340f-449f-8bee-4456eda478d9)
-    (property "Reference" "#PWR020" (at 172.72 162.56 0)
+    (property "Reference" "#PWR?" (at 172.72 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 172.72 160.3431 0)
@@ -4916,7 +4916,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR020") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "#PWR04") (unit 1)
@@ -4928,7 +4928,7 @@
   (symbol (lib_id "power:VCC") (at 175.26 58.42 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 09c8d02a-21d2-4f60-8965-bf2e386497c2)
-    (property "Reference" "#PWR014" (at 175.26 62.23 0)
+    (property "Reference" "#PWR?" (at 175.26 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (at 175.26 54.2869 0)
@@ -4944,7 +4944,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR014") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "#PWR05") (unit 1)
@@ -5018,7 +5018,7 @@
   (symbol (lib_id "power:VCC") (at 287.02 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 166ba116-6236-47e7-8577-a99d09b0f927)
-    (property "Reference" "#PWR018" (at 287.02 115.57 0)
+    (property "Reference" "#PWR?" (at 287.02 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (at 287.02 107.6269 0)
@@ -5034,7 +5034,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR018") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "#PWR09") (unit 1)
@@ -5046,7 +5046,7 @@
   (symbol (lib_name "74LS06_5") (lib_id "74xx:74LS06") (at 72.39 251.46 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 180a4095-a79b-4fe4-867a-efc848e5a126)
-    (property "Reference" "7K" (at 72.39 246.26 0)
+    (property "Reference" "7K?" (at 72.39 246.26 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS06" (at 72.39 256.66 0)
@@ -5075,7 +5075,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "7K") (unit 4)
+          (reference "7K?") (unit 4)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "7K1") (unit 4)
@@ -5087,7 +5087,7 @@
   (symbol (lib_id "0-Custom-Frater_Library:IBF2530") (at 105.41 181.61 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 248772cd-e493-4057-a459-a85ae424ae12)
-    (property "Reference" "IBF" (at 105.41 178.6199 0)
+    (property "Reference" "IBF?" (at 105.41 178.6199 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "IBF2530" (at 105.41 184.404 0)
@@ -5104,7 +5104,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "IBF") (unit 1)
+          (reference "IBF?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "IBF5") (unit 1)
@@ -5178,7 +5178,7 @@
   (symbol (lib_id "Device:R_Pack04_Split") (at 90.17 223.52 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3313163b-e0f6-4d41-ac0d-2dbb195ae847)
-    (property "Reference" "22x4" (at 90.17 218.3597 90)
+    (property "Reference" "22x?" (at 90.17 218.3597 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "22" (at 90.17 220.7839 90)
@@ -5201,7 +5201,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "22x4") (unit 1)
+          (reference "22x?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "22x2") (unit 1)
@@ -5213,7 +5213,7 @@
   (symbol (lib_id "0-Custom-Frater_Library:IBF2530-4") (at 193.04 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 33aa872e-ee55-4d21-aa0b-701ce840cb56)
-    (property "Reference" "IBF2530-4X2" (at 193.04 82.3539 0)
+    (property "Reference" "IBF2530-4X?" (at 193.04 82.3539 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 193.04 88.9 0)
@@ -5236,7 +5236,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "IBF2530-4X2") (unit 1)
+          (reference "IBF2530-4X?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "IBF2530-4X7") (unit 1)
@@ -5248,7 +5248,7 @@
   (symbol (lib_id "0-Custom-Frater_Library:IBF2530") (at 105.41 195.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 342ebe04-f370-4198-a2fe-efd107c5081f)
-    (property "Reference" "IBF" (at 105.41 192.5899 0)
+    (property "Reference" "IBF?" (at 105.41 192.5899 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "IBF2530" (at 105.41 198.374 0)
@@ -5265,7 +5265,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "IBF") (unit 1)
+          (reference "IBF?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "IBF6") (unit 1)
@@ -5277,7 +5277,7 @@
   (symbol (lib_id "0-Custom-Frater_Library:IBF2530") (at 266.7 106.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 36276ea5-c3d3-4ce9-a3db-ce887ff5be56)
-    (property "Reference" "IBF2530" (at 266.7 103.6899 0)
+    (property "Reference" "IBF?" (at 266.7 103.6899 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "IBF2530" (at 266.7 109.474 0)
@@ -5294,7 +5294,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "IBF2530") (unit 1)
+          (reference "IBF?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "IBF2") (unit 1)
@@ -5306,7 +5306,7 @@
   (symbol (lib_id "Device:R_Pack04_SIP_Split") (at 90.17 195.58 270) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 365578df-060c-4dff-9a8c-b6402888932a)
-    (property "Reference" "22x4" (at 90.17 190.4197 90)
+    (property "Reference" "22x?" (at 90.17 190.4197 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "22" (at 90.17 192.8439 90)
@@ -5329,7 +5329,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "22x4") (unit 2)
+          (reference "22x?") (unit 2)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "22x1") (unit 2)
@@ -5341,7 +5341,7 @@
   (symbol (lib_id "Device:R_Pack04_Split") (at 90.17 237.49 270) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3753c5b8-4508-4d2f-986c-27b1da594746)
-    (property "Reference" "22x4" (at 90.17 232.3297 90)
+    (property "Reference" "22x?" (at 90.17 232.3297 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "22" (at 90.17 234.7539 90)
@@ -5364,7 +5364,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "22x4") (unit 2)
+          (reference "22x?") (unit 2)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "22x2") (unit 2)
@@ -5469,7 +5469,7 @@
   (symbol (lib_name "74LS06_1") (lib_id "74xx:74LS06") (at 72.39 195.58 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4188c7a7-05ea-4200-9d50-abecfe8ba730)
-    (property "Reference" "7K" (at 72.39 190.38 0)
+    (property "Reference" "7K?" (at 72.39 190.38 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS06" (at 72.39 200.78 0)
@@ -5498,7 +5498,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "7K") (unit 2)
+          (reference "7K?") (unit 2)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "7K1") (unit 2)
@@ -5572,7 +5572,7 @@
   (symbol (lib_id "power:VCC") (at 116.84 158.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6727662a-3c60-4945-bbce-7d759472ef01)
-    (property "Reference" "#PWR013" (at 116.84 162.56 0)
+    (property "Reference" "#PWR?" (at 116.84 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (at 116.84 154.6169 0)
@@ -5588,7 +5588,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR013") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "#PWR03") (unit 1)
@@ -5600,7 +5600,7 @@
   (symbol (lib_id "Connector:DA15_Receptacle") (at 266.7 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6a08d479-e265-4328-aa4a-e66515b7e61a)
-    (property "Reference" "D-SUB" (at 270.637 80.0679 0)
+    (property "Reference" "D-SUB?" (at 270.637 80.0679 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1P" (at 270.637 82.4921 0)
@@ -5630,7 +5630,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "D-SUB") (unit 1)
+          (reference "D-SUB?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "D-SUB2") (unit 1)
@@ -5642,7 +5642,7 @@
   (symbol (lib_id "0-Custom-SNK:NEO-C1") (at 81.28 101.6 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6bb439fa-5d97-424b-a838-ea675373f3ea)
-    (property "Reference" "NEO-C1" (at 66.04 20.32 0)
+    (property "Reference" "NEO-C?" (at 66.04 20.32 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "NEO-C1" (at 93.98 161.29 0)
@@ -5757,7 +5757,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "NEO-C1") (unit 1)
+          (reference "NEO-C?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "5L1") (unit 1)
@@ -5769,7 +5769,7 @@
   (symbol (lib_id "power:GND") (at 280.67 106.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6c6b58bc-b4ab-4835-b25f-18972d8d860c)
-    (property "Reference" "#PWR016" (at 280.67 113.03 0)
+    (property "Reference" "#PWR?" (at 280.67 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 280.67 110.8131 0)
@@ -5785,7 +5785,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR016") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "#PWR06") (unit 1)
@@ -5797,7 +5797,7 @@
   (symbol (lib_id "0-Custom-Frater_Library:IBF2530-4") (at 193.04 146.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 71ab9c97-0552-4fa2-a5ac-569511ddbe99)
-    (property "Reference" "IBF2530-4X5" (at 193.04 139.5039 0)
+    (property "Reference" "IBF2530-4X?" (at 193.04 139.5039 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 193.04 146.05 0)
@@ -5820,7 +5820,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "IBF2530-4X5") (unit 1)
+          (reference "IBF2530-4X?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "IBF2530-4X10") (unit 1)
@@ -5863,7 +5863,7 @@
   (symbol (lib_id "power:VCC") (at 57.15 127 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7afb5ad0-e378-4cc8-994b-04a8b6ce6a2d)
-    (property "Reference" "#PWR011" (at 57.15 130.81 0)
+    (property "Reference" "#PWR?" (at 57.15 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (at 57.15 122.8669 0)
@@ -5879,7 +5879,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR011") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "#PWR01") (unit 1)
@@ -5891,7 +5891,7 @@
   (symbol (lib_id "0-Custom-Frater_Library:CRE401") (at 161.29 69.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7ccf3a1e-3dcb-442a-b4ae-cdb022e8bed0)
-    (property "Reference" "CRE401" (at 161.29 60.6369 0)
+    (property "Reference" "CRE?" (at 161.29 60.6369 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 161.29 71.12 0)
@@ -5916,7 +5916,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "CRE401") (unit 1)
+          (reference "CRE?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "CRE401") (unit 1)
@@ -5959,7 +5959,7 @@
   (symbol (lib_id "Device:R_Pack04_Split") (at 90.17 251.46 270) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 879a3057-7f33-4b8a-8748-c40147906425)
-    (property "Reference" "22x4" (at 90.17 246.2997 90)
+    (property "Reference" "22x?" (at 90.17 246.2997 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "22" (at 90.17 248.7239 90)
@@ -5982,7 +5982,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "22x4") (unit 3)
+          (reference "22x?") (unit 3)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "22x2") (unit 3)
@@ -5994,7 +5994,7 @@
   (symbol (lib_name "74LS06_3") (lib_id "74xx:74LS06") (at 72.39 223.52 0) (unit 6)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8933178c-bebd-45b0-bfc0-f71021bf2604)
-    (property "Reference" "7K" (at 72.39 218.32 0)
+    (property "Reference" "7K?" (at 72.39 218.32 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS06" (at 72.39 228.72 0)
@@ -6023,7 +6023,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "7K") (unit 6)
+          (reference "7K?") (unit 6)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "7K1") (unit 6)
@@ -6066,7 +6066,7 @@
   (symbol (lib_id "0-Custom-Frater_Library:IBF2530") (at 105.41 251.46 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 94a9fc7f-9201-4134-a50d-8c589a7ae190)
-    (property "Reference" "IBF" (at 105.41 248.4699 0)
+    (property "Reference" "IBF?" (at 105.41 248.4699 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "IBF2530" (at 105.41 254.254 0)
@@ -6083,7 +6083,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "IBF") (unit 1)
+          (reference "IBF?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "IBF10") (unit 1)
@@ -6095,7 +6095,7 @@
   (symbol (lib_id "Device:R_Pack04_SIP_Split") (at 90.17 209.55 270) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 993bd37f-0478-425d-9fc4-a55b3a824120)
-    (property "Reference" "22x4" (at 90.17 204.3897 90)
+    (property "Reference" "22x?" (at 90.17 204.3897 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "22" (at 90.17 206.8139 90)
@@ -6118,7 +6118,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "22x4") (unit 3)
+          (reference "22x?") (unit 3)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "22x1") (unit 3)
@@ -6130,7 +6130,7 @@
   (symbol (lib_id "0-Custom-Frater_Library:IBF2530") (at 105.41 209.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9aa5af30-25fc-4176-be1a-c0b557131d4e)
-    (property "Reference" "IBF" (at 105.41 206.5599 0)
+    (property "Reference" "IBF?" (at 105.41 206.5599 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "IBF2530" (at 105.41 212.344 0)
@@ -6147,7 +6147,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "IBF") (unit 1)
+          (reference "IBF?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "IBF7") (unit 1)
@@ -6190,7 +6190,7 @@
   (symbol (lib_id "0-Custom-Frater_Library:IBF2530") (at 105.41 237.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a6efda2d-f6d3-48af-832a-a18d4177981d)
-    (property "Reference" "IBF" (at 105.41 234.4999 0)
+    (property "Reference" "IBF?" (at 105.41 234.4999 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "IBF2530" (at 105.41 240.284 0)
@@ -6207,7 +6207,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "IBF") (unit 1)
+          (reference "IBF?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "IBF9") (unit 1)
@@ -6219,7 +6219,7 @@
   (symbol (lib_id "0-Custom-Frater_Library:CRE401") (at 161.29 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid adbe70d6-b9b6-4931-a00b-794b24adaf18)
-    (property "Reference" "CRE401" (at 161.29 98.7369 0)
+    (property "Reference" "CRE?" (at 161.29 98.7369 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "CRE401" (at 161.29 109.22 0)
@@ -6244,7 +6244,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "CRE401") (unit 1)
+          (reference "CRE?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "CRE401") (unit 1)
@@ -6256,7 +6256,7 @@
   (symbol (lib_id "0-Custom-Frater_Library:IBF2530-4") (at 193.04 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b9c2becb-11e5-4300-bf7d-7c330c655d94)
-    (property "Reference" "IBF2530-4X3" (at 193.04 101.4039 0)
+    (property "Reference" "IBF2530-4X?" (at 193.04 101.4039 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 193.04 107.95 0)
@@ -6279,7 +6279,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "IBF2530-4X3") (unit 1)
+          (reference "IBF2530-4X?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "IBF2530-4X8") (unit 1)
@@ -6322,7 +6322,7 @@
   (symbol (lib_id "power:GND") (at 280.67 166.37 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid be70d5ba-4cf7-40b5-bcbe-3cd6e355baf4)
-    (property "Reference" "#PWR019" (at 280.67 172.72 0)
+    (property "Reference" "#PWR?" (at 280.67 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 280.67 170.5031 0)
@@ -6338,7 +6338,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR019") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "#PWR07") (unit 1)
@@ -6350,7 +6350,7 @@
   (symbol (lib_id "0-Custom-Frater_Library:IBF2530-4") (at 193.04 69.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c6931d72-e9ce-4055-807e-42a85b92c2e3)
-    (property "Reference" "IBF2530-4X1" (at 193.04 63.3039 0)
+    (property "Reference" "IBF2530-4X?" (at 193.04 63.3039 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 193.04 69.85 0)
@@ -6373,7 +6373,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "IBF2530-4X1") (unit 1)
+          (reference "IBF2530-4X?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "IBF2530-4X6") (unit 1)
@@ -6416,7 +6416,7 @@
   (symbol (lib_id "power:GND") (at 57.15 158.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c8be6eae-1700-402d-af4f-8c79dad04805)
-    (property "Reference" "#PWR012" (at 57.15 165.1 0)
+    (property "Reference" "#PWR?" (at 57.15 165.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 57.15 162.8831 0)
@@ -6432,7 +6432,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR012") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "#PWR02") (unit 1)
@@ -6444,7 +6444,7 @@
   (symbol (lib_id "0-Custom-Frater_Library:IBF2530-4") (at 193.04 127 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c9c8f419-1bc5-4e84-a53e-cc4fef52cd59)
-    (property "Reference" "IBF2530-4X4" (at 193.04 120.4539 0)
+    (property "Reference" "IBF2530-4X?" (at 193.04 120.4539 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 193.04 127 0)
@@ -6467,7 +6467,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "IBF2530-4X4") (unit 1)
+          (reference "IBF2530-4X?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "IBF2530-4X9") (unit 1)
@@ -6479,7 +6479,7 @@
   (symbol (lib_id "Connector:DA15_Receptacle") (at 266.7 138.43 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ca71008c-5400-44e0-8fd7-9451632cf398)
-    (property "Reference" "D-SUB1" (at 270.637 137.2179 0)
+    (property "Reference" "D-SUB?" (at 270.637 137.2179 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "2P" (at 270.637 139.6421 0)
@@ -6509,7 +6509,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "D-SUB1") (unit 1)
+          (reference "D-SUB?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "D-SUB3") (unit 1)
@@ -6521,7 +6521,7 @@
   (symbol (lib_id "0-Custom-Frater_Library:IBF2530") (at 266.7 113.03 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d1baee42-2fc7-4057-830d-50b70294e700)
-    (property "Reference" "IBF2530" (at 266.7 116.0201 0)
+    (property "Reference" "IBF?" (at 266.7 116.0201 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "IBF2530" (at 266.7 110.236 0)
@@ -6538,7 +6538,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "IBF2530") (unit 1)
+          (reference "IBF?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "IBF3") (unit 1)
@@ -6581,7 +6581,7 @@
   (symbol (lib_id "Device:R_Pack04_SIP_Split") (at 90.17 181.61 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d62c01c6-46f9-41d2-83bf-0c1d6d2fd269)
-    (property "Reference" "22x4" (at 90.17 176.4497 90)
+    (property "Reference" "22x?" (at 90.17 176.4497 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "22" (at 90.17 178.8739 90)
@@ -6604,7 +6604,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "22x4") (unit 1)
+          (reference "22x?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "22x1") (unit 1)
@@ -6616,7 +6616,7 @@
   (symbol (lib_name "74LS06_2") (lib_id "74xx:74LS06") (at 72.39 181.61 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d8259b21-246e-42df-8c57-77d382eddc3e)
-    (property "Reference" "7K" (at 72.39 176.41 0)
+    (property "Reference" "7K?" (at 72.39 176.41 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS06" (at 72.39 186.81 0)
@@ -6645,7 +6645,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "7K") (unit 3)
+          (reference "7K?") (unit 3)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "7K1") (unit 3)
@@ -6688,7 +6688,7 @@
   (symbol (lib_id "0-Custom-Frater_Library:IBF2530") (at 105.41 223.52 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dd9186b5-6498-4111-b2d0-fb981a388fa5)
-    (property "Reference" "IBF" (at 105.41 220.5299 0)
+    (property "Reference" "IBF?" (at 105.41 220.5299 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "IBF2530" (at 105.41 226.314 0)
@@ -6705,7 +6705,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "IBF") (unit 1)
+          (reference "IBF?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "IBF8") (unit 1)
@@ -6717,7 +6717,7 @@
   (symbol (lib_id "0-Custom-Frater_Library:CRE401") (at 161.29 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e2d2d17a-f5f3-4723-b9ca-9749394928fe)
-    (property "Reference" "CRE401" (at 161.29 79.6869 0)
+    (property "Reference" "CRE?" (at 161.29 79.6869 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 161.29 90.17 0)
@@ -6742,7 +6742,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "CRE401") (unit 1)
+          (reference "CRE?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "CRE401") (unit 1)
@@ -6754,7 +6754,7 @@
   (symbol (lib_id "0-Custom-Frater_Library:IBF2530") (at 266.7 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e4b7bfbc-63ce-49cf-b614-2ee2134bf973)
-    (property "Reference" "IBF2530" (at 266.7 54.1599 0)
+    (property "Reference" "IBF?" (at 266.7 54.1599 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "IBF2530" (at 266.7 59.944 0)
@@ -6771,7 +6771,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "IBF2530") (unit 1)
+          (reference "IBF?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "IBF1") (unit 1)
@@ -6783,7 +6783,7 @@
   (symbol (lib_name "74LS06_4") (lib_id "74xx:74LS06") (at 72.39 209.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e50d4de3-ac64-402d-8a3e-9bddf903ecbd)
-    (property "Reference" "7K" (at 72.39 204.35 0)
+    (property "Reference" "7K?" (at 72.39 204.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS06" (at 72.39 214.75 0)
@@ -6812,7 +6812,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "7K") (unit 1)
+          (reference "7K?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "7K1") (unit 1)
@@ -6824,7 +6824,7 @@
   (symbol (lib_id "74xx:74LS06") (at 72.39 237.49 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e52d53bc-a323-4112-a6de-96fcd0ee11dd)
-    (property "Reference" "7K" (at 72.39 232.29 0)
+    (property "Reference" "7K?" (at 72.39 232.29 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS06" (at 72.39 242.69 0)
@@ -6853,7 +6853,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "7K") (unit 5)
+          (reference "7K?") (unit 5)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "7K1") (unit 5)
@@ -6865,7 +6865,7 @@
   (symbol (lib_id "0-Custom-Frater_Library:CRE401") (at 161.29 146.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e78f1ff5-4ca5-4316-ba38-50b250c6e685)
-    (property "Reference" "CRE401" (at 161.29 136.8369 0)
+    (property "Reference" "CRE?" (at 161.29 136.8369 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 161.29 147.32 0)
@@ -6890,7 +6890,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "CRE401") (unit 1)
+          (reference "CRE?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "CRE5") (unit 1)
@@ -6902,7 +6902,7 @@
   (symbol (lib_id "0-Custom-Frater_Library:CRE401") (at 161.29 127 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ec6fefb9-2fc5-4c2d-89b2-b6267fe6e371)
-    (property "Reference" "CRE401" (at 161.29 117.7869 0)
+    (property "Reference" "CRE?" (at 161.29 117.7869 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 161.29 128.27 0)
@@ -6927,7 +6927,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "CRE401") (unit 1)
+          (reference "CRE?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "CRE4") (unit 1)
@@ -7032,7 +7032,7 @@
   (symbol (lib_id "power:VCC") (at 287.02 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fd3a43f8-44bb-4b86-a5bc-6738cae692a7)
-    (property "Reference" "#PWR017" (at 287.02 59.69 0)
+    (property "Reference" "#PWR?" (at 287.02 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (at 287.02 51.7469 0)
@@ -7048,7 +7048,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR017") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/27681089-1070-4f1d-abd3-d755d3af1e2e"
           (reference "#PWR08") (unit 1)

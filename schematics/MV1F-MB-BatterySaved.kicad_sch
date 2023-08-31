@@ -1251,7 +1251,7 @@
   (symbol (lib_id "Transistor_BJT:2SC1815") (at 39.37 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 207e3504-8710-44f9-98cc-5e5899784ec0)
-    (property "Reference" "Q2" (at 44.2214 59.7479 0)
+    (property "Reference" "Q?" (at 44.2214 59.7479 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "2SC1815" (at 44.2214 62.1721 0)
@@ -1269,7 +1269,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "Q2") (unit 1)
+          (reference "Q?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/7f24c728-fee0-48c8-a0fa-f73689e9a4e3"
           (reference "Q1") (unit 1)
@@ -1281,7 +1281,7 @@
   (symbol (lib_id "power:GND") (at 62.23 71.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2ae9e275-4dbe-40b1-9d73-cb25e769a611)
-    (property "Reference" "#PWR023" (at 62.23 77.47 0)
+    (property "Reference" "#PWR?" (at 62.23 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 62.23 75.2531 0)
@@ -1297,7 +1297,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR023") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/7f24c728-fee0-48c8-a0fa-f73689e9a4e3"
           (reference "#PWR014") (unit 1)
@@ -1309,7 +1309,7 @@
   (symbol (lib_id "Device:R_Small") (at 62.23 52.07 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 34fd60e8-2b7a-4855-bfca-7988de688ff5)
-    (property "Reference" "R3" (at 57.1967 52.07 90)
+    (property "Reference" "R?" (at 57.1967 52.07 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "470" (at 63.881 52.07 0)
@@ -1326,7 +1326,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "R3") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/7f24c728-fee0-48c8-a0fa-f73689e9a4e3"
           (reference "R3") (unit 1)
@@ -1338,7 +1338,7 @@
   (symbol (lib_id "Device:R_Small") (at 62.23 82.55 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3cba5064-d280-4e80-9ed4-d9eb78fb1b05)
-    (property "Reference" "R4" (at 62.23 77.5167 90)
+    (property "Reference" "R?" (at 62.23 77.5167 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "10K" (at 62.23 79.9409 90)
@@ -1355,7 +1355,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "R4") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/7f24c728-fee0-48c8-a0fa-f73689e9a4e3"
           (reference "R4") (unit 1)
@@ -1367,7 +1367,7 @@
   (symbol (lib_id "power:VCC") (at 62.23 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 48d97c5a-8c4f-4355-8d21-7bd1b34b1394)
-    (property "Reference" "#PWR015" (at 62.23 34.29 0)
+    (property "Reference" "#PWR?" (at 62.23 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (at 62.23 26.3469 0)
@@ -1383,7 +1383,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR015") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/7f24c728-fee0-48c8-a0fa-f73689e9a4e3"
           (reference "#PWR013") (unit 1)
@@ -1395,7 +1395,7 @@
   (symbol (lib_id "power:GND") (at 41.91 71.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 54b949b1-63f4-462c-98bb-80bbf8b77b2b)
-    (property "Reference" "#PWR022" (at 41.91 77.47 0)
+    (property "Reference" "#PWR?" (at 41.91 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 41.91 75.2531 0)
@@ -1411,7 +1411,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR022") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/7f24c728-fee0-48c8-a0fa-f73689e9a4e3"
           (reference "#PWR012") (unit 1)
@@ -1423,7 +1423,7 @@
   (symbol (lib_id "Device:C_Polarized_US") (at 87.63 63.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5720007b-671b-478f-9738-18b84327b986)
-    (property "Reference" "C1" (at 90.551 61.6529 0)
+    (property "Reference" "C?" (at 90.551 61.6529 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "47µ" (at 90.551 64.0771 0)
@@ -1440,7 +1440,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "C1") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/7f24c728-fee0-48c8-a0fa-f73689e9a4e3"
           (reference "C1") (unit 1)
@@ -1452,7 +1452,7 @@
   (symbol (lib_id "Diode:1N4001") (at 72.39 52.07 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 72bf74ae-1aae-49f1-a8ae-c5b1a32abd20)
-    (property "Reference" "D2" (at 70.358 53.2821 90)
+    (property "Reference" "D?" (at 70.358 53.2821 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
     (property "Value" "1S1588" (at 74.422 52.07 90)
@@ -1475,7 +1475,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "D2") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/7f24c728-fee0-48c8-a0fa-f73689e9a4e3"
           (reference "D1") (unit 1)
@@ -1487,7 +1487,7 @@
   (symbol (lib_id "Device:Battery") (at 62.23 63.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7449622f-5c0d-4979-a5ef-7d9febbfee8e)
-    (property "Reference" "BT1" (at 65.151 61.7164 0)
+    (property "Reference" "BT?" (at 65.151 61.7164 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "306-35X" (at 65.151 64.1406 0)
@@ -1504,7 +1504,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "BT1") (unit 1)
+          (reference "BT?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/7f24c728-fee0-48c8-a0fa-f73689e9a4e3"
           (reference "BT1") (unit 1)
@@ -1516,7 +1516,7 @@
   (symbol (lib_id "74xx:74LS32") (at 67.31 102.87 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 75fa4617-63c5-45d3-a99d-cd33f40025f8)
-    (property "Reference" "U2" (at 67.31 94.9157 0)
+    (property "Reference" "U?" (at 67.31 94.9157 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS32" (at 67.31 97.3399 0)
@@ -1545,7 +1545,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "U2") (unit 4)
+          (reference "U?") (unit 4)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/7f24c728-fee0-48c8-a0fa-f73689e9a4e3"
           (reference "U2") (unit 4)
@@ -1557,7 +1557,7 @@
   (symbol (lib_id "Device:R_Small") (at 48.26 39.37 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 79cfd2c7-d6a3-46dc-9fd8-b75bab0beeac)
-    (property "Reference" "R1" (at 48.26 34.3367 90)
+    (property "Reference" "R?" (at 48.26 34.3367 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "2.7K" (at 48.26 36.7609 90)
@@ -1574,7 +1574,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "R1") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/7f24c728-fee0-48c8-a0fa-f73689e9a4e3"
           (reference "R1") (unit 1)
@@ -1586,7 +1586,7 @@
   (symbol (lib_id "74xx:74LS32") (at 67.31 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 805b8b65-be54-420f-9d11-66570bdc884c)
-    (property "Reference" "U2" (at 67.31 108.8857 0)
+    (property "Reference" "U?" (at 67.31 108.8857 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS32" (at 67.31 111.3099 0)
@@ -1615,7 +1615,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "U2") (unit 1)
+          (reference "U?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/7f24c728-fee0-48c8-a0fa-f73689e9a4e3"
           (reference "U2") (unit 1)
@@ -1627,7 +1627,7 @@
   (symbol (lib_id "Transistor_BJT:2SA1015") (at 59.69 39.37 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 87f2de8a-65e9-496e-a938-c17182735f9b)
-    (property "Reference" "Q1" (at 64.5414 40.5821 0)
+    (property "Reference" "Q?" (at 64.5414 40.5821 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "2SA1015" (at 64.5414 38.1579 0)
@@ -1645,7 +1645,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "Q1") (unit 1)
+          (reference "Q?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/7f24c728-fee0-48c8-a0fa-f73689e9a4e3"
           (reference "Q2") (unit 1)
@@ -1657,7 +1657,7 @@
   (symbol (lib_id "power:GND") (at 87.63 71.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8c677cb2-b108-4b94-9b3f-98ec6a10c8e9)
-    (property "Reference" "#PWR024" (at 87.63 77.47 0)
+    (property "Reference" "#PWR?" (at 87.63 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 87.63 75.2531 0)
@@ -1673,7 +1673,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR024") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/7f24c728-fee0-48c8-a0fa-f73689e9a4e3"
           (reference "#PWR016") (unit 1)
@@ -1685,7 +1685,7 @@
   (symbol (lib_id "power:VCC") (at 87.63 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9d746e29-bbad-4f9c-99f9-d113dc37193b)
-    (property "Reference" "#PWR021" (at 87.63 34.29 0)
+    (property "Reference" "#PWR?" (at 87.63 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (at 87.63 26.3469 0)
@@ -1701,7 +1701,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR021") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/7f24c728-fee0-48c8-a0fa-f73689e9a4e3"
           (reference "#PWR015") (unit 1)
@@ -1713,7 +1713,7 @@
   (symbol (lib_id "Diode:1N4001") (at 87.63 39.37 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d807b286-ace0-48bd-9485-c827d112f97e)
-    (property "Reference" "D1" (at 89.662 38.1579 90)
+    (property "Reference" "D?" (at 89.662 38.1579 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
     (property "Value" "10D1" (at 89.662 40.5821 90)
@@ -1736,7 +1736,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/7f24c728-fee0-48c8-a0fa-f73689e9a4e3"
           (reference "D2") (unit 1)
@@ -1748,7 +1748,7 @@
   (symbol (lib_id "74xx:74LS32") (at 67.31 133.35 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d96a2e51-2d92-4a1e-93ca-e293aebcaee9)
-    (property "Reference" "U2" (at 67.31 125.3957 0)
+    (property "Reference" "U?" (at 67.31 125.3957 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS32" (at 67.31 127.8199 0)
@@ -1777,7 +1777,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "U2") (unit 3)
+          (reference "U?") (unit 3)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/7f24c728-fee0-48c8-a0fa-f73689e9a4e3"
           (reference "U2") (unit 3)
@@ -1789,7 +1789,7 @@
   (symbol (lib_id "Device:R_Small") (at 48.26 46.99 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dcc46622-dab4-44e3-ba08-e9bf73658371)
-    (property "Reference" "R2" (at 48.26 41.9567 90)
+    (property "Reference" "R?" (at 48.26 41.9567 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "10K" (at 48.26 44.3809 90)
@@ -1806,7 +1806,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "R2") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/7f24c728-fee0-48c8-a0fa-f73689e9a4e3"
           (reference "R2") (unit 1)
@@ -1818,7 +1818,7 @@
   (symbol (lib_id "74xx:74LS32") (at 67.31 147.32 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eaa3df24-6cb2-42b8-a1cf-ce8cd388b26e)
-    (property "Reference" "U2" (at 67.31 139.3657 0)
+    (property "Reference" "U?" (at 67.31 139.3657 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS32" (at 67.31 141.7899 0)
@@ -1847,7 +1847,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "U2") (unit 2)
+          (reference "U?") (unit 2)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/7f24c728-fee0-48c8-a0fa-f73689e9a4e3"
           (reference "U2") (unit 2)

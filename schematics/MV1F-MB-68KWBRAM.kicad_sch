@@ -4351,7 +4351,7 @@
   (symbol (lib_id "power:GND") (at 158.75 100.33 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 29a8409a-0bc7-4252-a604-979c0a0c31b6)
-    (property "Reference" "#PWR05" (at 158.75 106.68 0)
+    (property "Reference" "#PWR?" (at 158.75 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 158.75 104.4631 0)
@@ -4367,7 +4367,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR05") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
           (reference "#PWR031") (unit 1)
@@ -4379,7 +4379,7 @@
   (symbol (lib_id "Memory_RAM:KM62256CLP") (at 339.09 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2c11dbec-3708-4b11-8970-2b978261f865)
-    (property "Reference" "6M" (at 331.47 88.9 0)
+    (property "Reference" "6M?" (at 331.47 88.9 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "62256" (at 341.2841 132.5301 0)
@@ -4422,7 +4422,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "6M") (unit 1)
+          (reference "6M?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
           (reference "8H1") (unit 1)
@@ -4434,7 +4434,7 @@
   (symbol (lib_id "Memory_RAM:KM62256CLP") (at 339.09 58.42 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 373e5429-7baf-48ee-8959-e0ea5867b9fa)
-    (property "Reference" "7M" (at 331.47 36.83 0)
+    (property "Reference" "7M?" (at 331.47 36.83 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "62256" (at 341.2841 80.4601 0)
@@ -4477,7 +4477,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "7M") (unit 1)
+          (reference "7M?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
           (reference "7H1") (unit 1)
@@ -4489,7 +4489,7 @@
   (symbol (lib_id "0-Custom-cbm-steve:27C1024") (at 176.53 59.69 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 37d38ec8-e229-4306-b5c2-69216c2e9d24)
-    (property "Reference" "SP1" (at 167.64 34.29 0)
+    (property "Reference" "SP?" (at 167.64 34.29 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TCB31024P" (at 176.53 51.5427 0)
@@ -4547,7 +4547,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "SP1") (unit 1)
+          (reference "SP?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
           (reference "6F1") (unit 1)
@@ -4559,7 +4559,7 @@
   (symbol (lib_id "Device:R_Network04") (at 36.83 45.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 46268644-261c-4113-acd2-d90d8454e57f)
-    (property "Reference" "RN4" (at 41.402 44.7619 0)
+    (property "Reference" "RN?" (at 41.402 44.7619 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "4.7K" (at 36.83 40.64 0)
@@ -4579,7 +4579,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "RN4") (unit 1)
+          (reference "RN?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
           (reference "RN1") (unit 1)
@@ -4591,7 +4591,7 @@
   (symbol (lib_id "power:GND") (at 311.15 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 579a4f9f-964f-4252-815d-93fd5f38adea)
-    (property "Reference" "#PWR09" (at 311.15 148.59 0)
+    (property "Reference" "#PWR?" (at 311.15 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 311.15 146.3731 0)
@@ -4607,7 +4607,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR09") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
           (reference "#PWR035") (unit 1)
@@ -4619,7 +4619,7 @@
   (symbol (lib_id "power:VCC") (at 287.02 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 61656076-38e4-4939-9d62-806296874fbc)
-    (property "Reference" "#PWR08" (at 287.02 34.29 0)
+    (property "Reference" "#PWR?" (at 287.02 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (at 287.02 26.3469 0)
@@ -4635,7 +4635,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR08") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
           (reference "#PWR034") (unit 1)
@@ -4647,7 +4647,7 @@
   (symbol (lib_id "power:GND") (at 224.79 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 813ae187-a0e9-4511-b018-680fa433b181)
-    (property "Reference" "#PWR07" (at 224.79 148.59 0)
+    (property "Reference" "#PWR?" (at 224.79 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 224.79 146.3731 0)
@@ -4663,7 +4663,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR07") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
           (reference "#PWR033") (unit 1)
@@ -4675,7 +4675,7 @@
   (symbol (lib_id "Memory_RAM:KM62256CLP") (at 256.54 58.42 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 854839d5-eef3-490f-8a11-3b2ce5081e9c)
-    (property "Reference" "1M" (at 248.92 36.83 0)
+    (property "Reference" "1M?" (at 248.92 36.83 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "62256" (at 258.7341 80.4601 0)
@@ -4718,7 +4718,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "1M") (unit 1)
+          (reference "1M?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
           (reference "4H1") (unit 1)
@@ -4730,7 +4730,7 @@
   (symbol (lib_id "CPU_NXP_68000:68000D") (at 88.9 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 91571833-becc-433a-8b3f-000014360a89)
-    (property "Reference" "U1" (at 72.39 34.29 0)
+    (property "Reference" "U?" (at 72.39 34.29 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "68000" (at 88.9 92.71 0)
@@ -4809,7 +4809,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "U1") (unit 1)
+          (reference "U?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
           (reference "3G1") (unit 1)
@@ -4821,7 +4821,7 @@
   (symbol (lib_id "Jumper:SolderJumper_2_Open") (at 29.21 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 95006da7-2dc4-4292-8fd2-51089703ca96)
-    (property "Reference" "JP1" (at 29.21 102.9167 0)
+    (property "Reference" "JP?" (at 29.21 102.9167 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BERR" (at 29.21 105.3409 0)
@@ -4838,7 +4838,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "JP1") (unit 1)
+          (reference "JP?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
           (reference "JP2") (unit 1)
@@ -4850,7 +4850,7 @@
   (symbol (lib_id "Memory_RAM:KM62256CLP") (at 256.54 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 98dd3bbe-2b9d-4217-befe-254e0342e074)
-    (property "Reference" "2M" (at 248.92 88.9 0)
+    (property "Reference" "2M?" (at 248.92 88.9 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "62256" (at 258.7341 132.5301 0)
@@ -4893,7 +4893,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "2M") (unit 1)
+          (reference "2M?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
           (reference "5H1") (unit 1)
@@ -4905,7 +4905,7 @@
   (symbol (lib_id "power:VCC") (at 90.17 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 98f7a007-8785-4543-b789-17f543798c38)
-    (property "Reference" "#PWR01" (at 90.17 34.29 0)
+    (property "Reference" "#PWR?" (at 90.17 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (at 90.17 26.3469 0)
@@ -4921,7 +4921,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR01") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
           (reference "#PWR029") (unit 1)
@@ -4933,7 +4933,7 @@
   (symbol (lib_id "power:GND") (at 90.17 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9b80ec97-2bb7-478c-a264-c4dc8d26f03c)
-    (property "Reference" "#PWR02" (at 90.17 162.56 0)
+    (property "Reference" "#PWR?" (at 90.17 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 90.17 160.3431 0)
@@ -4949,7 +4949,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR02") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
           (reference "#PWR030") (unit 1)
@@ -4961,7 +4961,7 @@
   (symbol (lib_id "power:VCC") (at 31.75 36.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bfa21f83-e148-45bc-9059-e248aa53be94)
-    (property "Reference" "#PWR03" (at 31.75 40.64 0)
+    (property "Reference" "#PWR?" (at 31.75 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (at 31.75 32.6969 0)
@@ -4977,7 +4977,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR03") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
           (reference "#PWR028") (unit 1)
@@ -4989,7 +4989,7 @@
   (symbol (lib_id "power:VCC") (at 199.39 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dae2c1bc-7db6-479b-8c1e-d3a267ea3a45)
-    (property "Reference" "#PWR06" (at 199.39 33.02 0)
+    (property "Reference" "#PWR?" (at 199.39 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (at 199.39 25.0769 0)
@@ -5005,7 +5005,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR06") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
           (reference "#PWR032") (unit 1)
@@ -5017,7 +5017,7 @@
   (symbol (lib_id "power:GND") (at 21.59 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e1575d5f-8c40-4c11-8882-25add47e0030)
-    (property "Reference" "#PWR04" (at 21.59 118.11 0)
+    (property "Reference" "#PWR?" (at 21.59 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 21.59 115.8931 0)
@@ -5033,7 +5033,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "#PWR04") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
           (reference "#PWR027") (unit 1)
