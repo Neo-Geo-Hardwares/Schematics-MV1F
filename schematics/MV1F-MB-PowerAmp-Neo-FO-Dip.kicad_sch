@@ -4675,7 +4675,7 @@
   (symbol (lib_id "Jumper:SolderJumper_2_Open") (at 306.07 148.59 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 44a4f356-f798-43c0-a3ae-0570a2dca673)
-    (property "Reference" "JP1" (at 306.07 151.13 0)
+    (property "Reference" "JP?" (at 306.07 151.13 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 306.07 145.9809 0)
@@ -4692,7 +4692,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "JP1") (unit 1)
+          (reference "JP?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
           (reference "JP2") (unit 1)
@@ -5405,7 +5405,7 @@
   (symbol (lib_id "Jumper:SolderJumper_2_Open") (at 35.56 176.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8e9231b4-39c5-4ba8-9da5-9ee84b9c89ad)
-    (property "Reference" "JP1" (at 35.56 173.99 0)
+    (property "Reference" "JP?" (at 35.56 173.99 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BERR" (at 35.56 173.9209 0)
@@ -5422,7 +5422,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "JP1") (unit 1)
+          (reference "JP?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
           (reference "JP2") (unit 1)
@@ -5690,7 +5690,7 @@
   (symbol (lib_id "Jumper:SolderJumper_2_Open") (at 306.07 153.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid aefdddbd-91b9-4346-afd9-2f8442976812)
-    (property "Reference" "JP1" (at 306.07 156.21 0)
+    (property "Reference" "JP?" (at 306.07 156.21 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 306.07 151.0609 0)
@@ -5707,7 +5707,7 @@
     (instances
       (project "MVS"
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2"
-          (reference "JP1") (unit 1)
+          (reference "JP?") (unit 1)
         )
         (path "/8d0803ab-15ed-47a7-8dcb-ab27dc5b29c2/0b42d888-4b79-4625-b2d5-9f4b583469ed"
           (reference "JP2") (unit 1)
